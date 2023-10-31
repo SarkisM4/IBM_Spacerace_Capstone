@@ -12,9 +12,9 @@
 - What operating conditions needs to be inplace to ensure a successful landing program?
 
 ### Executive Summary
-• Data collection methodology:
-• Data was collected using SpaceX API and web scraping from Wikipedia.
-• Perform data wrangling
+• Data collection methodology: 
+• Data was collected using SpaceX API and web scraping from Wikipedia. 
+• Perform data wrangling 
 • One-hot encoding was applied to categorical features
 • Perform exploratory data analysis (EDA) using visualization and SQL 
 • Perform interactive visual analytics using Folium and Plotly Dash
